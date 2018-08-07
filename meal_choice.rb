@@ -3,13 +3,11 @@ def breakfast (food="Frosted Flakes")
   puts "Morning is the best time for #{food}!"
 end
 
-breakfast
 
 def lunch (food2= "grilled cheese")
   puts "#{food2} is best for lunch!"
   
 end
-lunch
 
 def dinner (food3= "salmon")
   puts "#{food3} is great for dinner!"
