@@ -15,6 +15,8 @@ def dinner (food3= "salmon")
   puts "#{food3} is great for dinner!"
 end
 
+breakfast
+lunch
 dinner
 
 # Define breakfast, lunch and dinner methods that return the meal choice passed into them. If nothing is passed in, it shoud default to the foods on the readme (frosted flake, grilled cheese, salmon)
