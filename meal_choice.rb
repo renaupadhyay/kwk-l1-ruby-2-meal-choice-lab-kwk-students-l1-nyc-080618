@@ -1,5 +1,6 @@
 
-def breakfast(food="Frosted Flakes")
+
+def breakfast (food="Frosted Flakes")
   "Morning is the best time for #{food}!"
 end
 
