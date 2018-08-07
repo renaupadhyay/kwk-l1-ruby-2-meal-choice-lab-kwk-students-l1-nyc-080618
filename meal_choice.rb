@@ -1,3 +1,6 @@
+def snacks (snack= "Swedish Fish")
+  puts "Anytime is good for #{snack}"
+end
 
 def breakfast (food="Frosted Flakes")
   puts "Morning is the best time for #{food}!"
@@ -13,6 +16,7 @@ def dinner (food3= "salmon")
   puts "#{food3} is great for dinner!"
 end
 
+snacks
 breakfast
 lunch
 dinner
